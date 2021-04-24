@@ -7,10 +7,8 @@ import android.view.WindowManager;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-import androidx.core.math.MathUtils;
-import chen.CarComm;
-import chen.Commands;
-import org.apache.commons.lang.math.NumberUtils;
+import com.chen.mumucarapp.control.CarComm;
+import com.chen.mumucarapp.control.Commands;
 
 public class MainActivity extends AppCompatActivity {
     public static boolean[] orientations = new boolean[4];

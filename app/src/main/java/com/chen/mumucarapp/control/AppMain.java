@@ -1,4 +1,4 @@
-package chen;
+package com.chen.mumucarapp.control;
 
 import java.util.Scanner;
 

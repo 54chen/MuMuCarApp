@@ -1,8 +1,6 @@
-package chen;
+package com.chen.mumucarapp.control;
 
 import android.util.Log;
-import android.widget.TextView;
-import com.chen.mumucarapp.R;
 
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;

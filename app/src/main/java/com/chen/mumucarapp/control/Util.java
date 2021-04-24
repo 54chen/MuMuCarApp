@@ -1,4 +1,4 @@
-package chen;
+package com.chen.mumucarapp.control;
 
 public class Util {
     public static int get4Random() {

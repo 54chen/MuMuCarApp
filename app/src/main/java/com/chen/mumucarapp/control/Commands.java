@@ -1,4 +1,4 @@
-package chen;
+package com.chen.mumucarapp.control;
 
 public class Commands {
     public static final String AUTHORIZE_ACCEPT = "*A";

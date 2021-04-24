@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.chen.mumucarapp"
+        applicationId "com.com.chen.mumucarapp"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
